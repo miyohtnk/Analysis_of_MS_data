@@ -1,9 +1,8 @@
-# "Comparing Mass Spec proteomic datasets"
+# Comparing Mass Spec shotgun proteomic datasets
 
-This is a python script for comparing Spectronaut .csv output from 
+This repository contains a number of python scripts for comparing Spectronaut .csv output or ProteomeDiscoverer .xlsx output from 
 Mass Spectrometry analysis.
 
-The final results are shown in a Venn diagram.
 
 ## Contributing
 
